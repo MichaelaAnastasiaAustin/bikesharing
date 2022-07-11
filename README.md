@@ -18,6 +18,7 @@ The full Tableau story can be accessed [here](https://public.tableau.com/app/pro
 ### User Description
 
 First, we wanted to understand the population behind the data. Who uses bikesharing? The following charts reveal that the vast majority of riders are male. Additionally, most riders are annual subscribers rather than short-term customers. 
+
 ![User_Description](https://github.com/MichaelaAnastasiaAustin/bikesharing/blob/main/images/User_Description.png)
 
 ### Checkout Times by Users
